@@ -5,7 +5,7 @@
 
 # Support:
 
-For support join my discord here: https://discord.gg/scully
+For support join my discord here: [https://discord.gg/scully](https://discord.gg/F7PbTwQYJr)
 
 # Installation Instructions:
 
