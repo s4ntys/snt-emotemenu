@@ -5,11 +5,11 @@
 
 # Support:
 
-For support join my discord here: [https://discord.gg/scully](https://discord.gg/F7PbTwQYJr)
+For support join my discord here: https://discord.gg/F7PbTwQYJr
 
 # Installation Instructions:
 
-* add `ensure scully_emotemenu` to your `server.cfg`
+* add `ensure snt-emotemenu` to your `server.cfg`
 
 # Requirements
 
