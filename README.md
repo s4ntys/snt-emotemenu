@@ -9,6 +9,8 @@ For support join my discord here: https://discord.gg/F7PbTwQYJr
 
 # Installation Instructions:
 
+* Unpack ```snt-emotemenu.rar```
+
 * add `ensure snt-emotemenu` to your `server.cfg`
 
 # Requirements
