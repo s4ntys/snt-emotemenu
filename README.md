@@ -1,7 +1,5 @@
 # snt-emotemenu
 
-<img src='https://cdn.discordapp.com/attachments/1026222009060958279/1047036407731990568/image.png' width='750'>
-
 # Previews
 <img src='https://i.gyazo.com/80de82f9bd0574019069925b7ee64cf2.png'><img src='https://i.gyazo.com/7ee2779f736b3ddb88e6e40d7db46597.png'>
 
